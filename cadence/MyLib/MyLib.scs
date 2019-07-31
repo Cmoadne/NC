@@ -1,0 +1,6 @@
+**MyLib
+simulator lang=spice
+
+.INC 'PTMNC.scs'
+
+simulator lang=spectre

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      a194860w
+HostName                       lxb29.cadcam.nus.edu.sg
+ProcessIdentifier              28184
+ProcessCreationTime_UTC        1557918911
+ProcessCreationTime_Readable   Wed May 15 19:15:11 2019 SGT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /var/tmp/sc/Virtuoso/MyLib/PMOSPTM/data.dm.cdslck
+TimeEditLocked                 Wed May 15 19:16:21 2019 SGT

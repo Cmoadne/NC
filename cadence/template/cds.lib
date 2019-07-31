@@ -1,0 +1,4 @@
+SOFTINCLUDE /app11/cadence/IC617-500-1/share/cdssetup/cds.lib
+INCLUDE /var/tmp/sc/Virtuoso/0_pdk/MyLib/cds.lib
+DEFINE template ../template
+
